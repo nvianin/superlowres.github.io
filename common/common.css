@@ -1,5 +1,5 @@
 .disable-scroll{
-    top:0;
+    top: 0;
     overflow: hidden;
     position: fixed;
     /*touch-action: none;*/
